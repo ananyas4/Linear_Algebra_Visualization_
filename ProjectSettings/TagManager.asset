@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - QDSUISharedThemeColor
+  - QDSUISection
+  - QDSUIIcon
+  - QDSUITextInputField
+  - QDSUITextSecondaryColor
+  - QDSUITooltip
+  - QDSUISecondaryButton
+  - QDSUIToggleBorderlessButton
+  - QDSUIToggleCheckboxRadio
+  - QDSUIAccentColor
+  - QDSUIToggleButton
+  - QDSUIPrimaryButton
+  - QDSUIToggleSwitch
+  - QDSUIBorderlessButton
+  - QDSUIDestructiveButton
+  - Locomotion
+  - PassThrough
+  - PassThroughButton
+  - LocoButton
+  - LocoText
+  - Title
+  - TitleDescription
+  - Video
+  - SamplesInfoPanel
+  - Add
+  - Sub
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
